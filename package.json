@@ -1,0 +1,22 @@
+{
+  "name": "test-setup-server",
+  "version": "1.0.0",
+  "description": "a node package to set up networking with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dambergn/test-setup-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dambergn/test-setup-server/issues"
+  },
+  "homepage": "https://github.com/dambergn/test-setup-server#readme",
+  "dependencies": {
+    "setup": "0.0.3"
+  }
+}
